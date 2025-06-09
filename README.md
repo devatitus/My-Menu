@@ -37,7 +37,7 @@ users.json
 
 ## 🧾 License
 
-This project is developed by [Your Name] as part of an academic or portfolio project. All rights reserved unless explicitly stated. Third-party libraries are used under their respective open-source licenses.
+This project is developed by J DEVA TITUS as part of an academic or portfolio project. All rights reserved unless explicitly stated. Third-party libraries are used under their respective open-source licenses.
 
 ## 📣 Notes
 
